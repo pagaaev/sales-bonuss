@@ -829,9 +829,9 @@ const data = {
             "items": [
                 {
                     "sku": "SKU_027",
-                    "discount": 7.68,
-                    "quantity": 1,
-                    "sale_price": 919.07
+                    "discount": 7.68, // скидка 7.68
+                    "quantity": 1, // купил 1 штуку
+                    "sale_price": 919.07 // цена за 1 штуку
                 },
                 {
                     "sku": "SKU_091",
